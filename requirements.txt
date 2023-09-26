@@ -1,0 +1,11 @@
+cloudinary==1.34.0
+easyocr==1.7.0
+numpy==1.23.5
+opencv_contrib_python==4.6.0.66
+opencv_python==4.6.0.66
+opencv_python_headless==4.7.0.72
+openpyxl==3.0.10
+pygame==2.5.2
+pymongo==4.5.0
+Requests==2.31.0
+ultralytics==8.0.157
