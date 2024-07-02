@@ -24,6 +24,17 @@ The Automatic Number Plate Recognition (ANPR) System is a powerful tool designed
 
 - **Alerting and Notifications:** The system sends alerts and notifications to forecourt attendants in case of suspicious activity, such as vehicles associated with previous drive-off or no-means payment incidents.
 
+## Results
+**Alert of driven off vehicle with date and amount**
+![Alert of driven off vehicle image](images/alert_vehicle.png)
+
+**Licence plate text detection**
+![Text detection](images/text_detection.png)
+
+**Vehicle detection**
+![Vehicle detection](images/vehicle_detection.png)
+
+
 ## Requirements
 
 To run the ANPR System, you'll need to install the following Python packages:
